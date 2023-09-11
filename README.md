@@ -1,5 +1,4 @@
 - Hi, I’m @remio1209 but I go by Grease.
-- I’m interested in homelabing. I just got started with a small server and learing the things.
-- I’m currently learning how to code with Python.
+- I’m into homelabing. I learning all the things as I go. 
 - How to reach me: Not going to give out any info at this time.
 - Once I have something to say, I will put it here.
