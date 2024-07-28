@@ -1,4 +1,4 @@
-- Hi, my name is Josh I am a greasemonkey. (automobile technician)
+- Hi, my name is Josh and I am a greasemonkey. (automobile technician)
 - I have over 20 years experience as a technician.
 - I'm currently a ASE Advanced Level Master Automobile Technician
 - I'm currectly a Master Diagnostic Technician for Toyota
