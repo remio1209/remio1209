@@ -1,4 +1,9 @@
-- Hi, I go by the name Grease_the_Monkey. (automobile technician)
-- I’m into homelabing. I'm learning all the things as I go. 
-- How to reach me: Not going to give out any info at this time.
-- Once I have something to say, I will put it here.
+- Hi, my name is Josh I am a greasemonkey. (automobile technician)
+- I have over 20 years experience as a technician.
+- I'm currently a ASE Advanced Level Master Automobile Technician
+- I'm currectly a Master Diagnostic Technician for Toyota
+- I’m into homelabing. I am constantly striving to learm more everyday.
+- Knowledge can be very powerful and also cause problems. Choose wisely.
+- How to reach me: Email: josh@joshuaweaver.org
+- Be nice to your mechanic. It means more than you realize.
+- https://links.joshuaweaver.org/
