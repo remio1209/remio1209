@@ -1,5 +1,5 @@
 - Hi, my name is Joshua Weaver
-- I have over 20 years experience as a technician.
+- I have over 30 years experience as a technician.
 - I'm currently a ASE Advanced Level Master Automobile Technician
 - I'm currectly a Master Diagnostic Technician for Toyota
 - I’m into homelabing. I am constantly striving to learm more everyday.
